@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="boost.app.emergentassistant">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/help"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Assistant" />
+        <activity android:name=".Patriarch" />
+        <activity android:name=".RegisterAssistant" />
+        <activity android:name=".LoginAssitants" />
+        <activity android:name=".LoginPatriarch" />
+        <activity android:name=".RegisterPatriarch" />
+        <activity android:name=".HomePatriarch" />
+        <activity android:name=".HomeAssistant" />
+        <activity android:name=".sampleHome" />
+        <activity android:name=".ChatLayout"></activity>
+    </application>
+
+</manifest>
