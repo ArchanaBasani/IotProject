@@ -1,0 +1,161 @@
+{
+  "project_info": {
+    "project_number": "136842155414",
+    "firebase_url": "https://old-lady.firebaseio.com",
+    "project_id": "old-lady",
+    "storage_bucket": "old-lady.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136842155414:android:8db7e71e8891f340",
+        "android_client_info": {
+          "package_name": "com.example.aspk4.oldlady"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136842155414-d3uq2hrrjf27phmcvjqipusijphmrss3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aspk4.oldlady",
+            "certificate_hash": "b07f2bf4c02fd4ed824b3aa71865f44e37757eaf"
+          }
+        },
+        {
+          "client_id": "136842155414-316ari66m2ticgq9ficgeevmdlq8aqgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcyTPE8W-NkHRqaYDahRyytWZZuwUX_u4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136842155414-316ari66m2ticgq9ficgeevmdlq8aqgq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136842155414:android:39309e0019f8e471",
+        "android_client_info": {
+          "package_name": "dev.edmt.chatap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136842155414-316ari66m2ticgq9ficgeevmdlq8aqgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcyTPE8W-NkHRqaYDahRyytWZZuwUX_u4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136842155414:android:9f731b30a3f6c525",
+        "android_client_info": {
+          "package_name": "dev.edmt.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136842155414-b61rgrineqk52j0qfk6vq3mgm6ok8ujs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.edmt.chatapp",
+            "certificate_hash": "b07f2bf4c02fd4ed824b3aa71865f44e37757eaf"
+          }
+        },
+        {
+          "client_id": "136842155414-316ari66m2ticgq9ficgeevmdlq8aqgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcyTPE8W-NkHRqaYDahRyytWZZuwUX_u4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136842155414-316ari66m2ticgq9ficgeevmdlq8aqgq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136842155414:android:2c165bfad74e34de",
+        "android_client_info": {
+          "package_name": "soundsgood.com.soundsgood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136842155414-316ari66m2ticgq9ficgeevmdlq8aqgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcyTPE8W-NkHRqaYDahRyytWZZuwUX_u4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
